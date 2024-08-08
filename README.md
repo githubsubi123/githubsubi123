@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @githubsubi123
 - 👀 I’m interested in learning about the newest technology advancements.
-- 🌱 I’m currently doing my intership based on Data Science and Machine Learning
 
 
 <!---
